@@ -130,3 +130,5 @@ dmypy.json
 
 requirements.txt~
 .requirements.txt*~
+.idea/
+/deepant-model-w-ignite/
