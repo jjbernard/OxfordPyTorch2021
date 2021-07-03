@@ -7,4 +7,5 @@ pandas
 pytorch-ignite
 matplotlib
 tqdm
-
+fastai
+fastai2
